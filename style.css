@@ -1,0 +1,58 @@
+@charset "UTF-8";
+*{margin: 0px;}
+header{background-color: black;
+padding: 45px 0px 45px
+}
+h1{font-family: 'Passion One',cursive;
+font-size: 10vw;
+font-weight: bolder;
+color: white;
+text-align: center;
+padding-bottom: 6px;
+}
+small{font-size: 7vw;}
+a{ text-decoration: none;
+color: white;
+font-weight: bold;
+}
+p{font-family: 'Sriracha', cursive;
+}
+#por{ font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 2.3vw; color: white; 
+    text-align: center;
+}
+
+.par{ font-size: 3.6vw;
+text-align: left;
+padding: 70px 0px 100px 27px ;
+line-height: 2em;
+}
+
+div{padding: 60px 0px 60px 30px;
+}
+.imapar{display: inline-block;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.314);
+    font-size: 3.6vw;
+    text-align: left;
+    padding: 3px 3px;
+    line-height: 2em;
+}
+#pri{ background-image: url(pacote-d012/imagens/background001.jpg);
+   
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#seg{ background:  url(pacote-d012/imagens/background002.jpg) right center no-repeat fixed;
+background-size: cover;
+}
+footer{ ;
+    padding: 10px;
+    background-color: black;
+}
+#foo{font-size: 2.3vw; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white; text-align: center;
+}
